@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "owner",
     version: "2.0",
-    author: "Tarek",
+    author: "Ｓｏｊｉｂ ◉‿◉ Edit by Sajib",
     shortDescription: "Display bot and owner information",
     longDescription: "Shows detailed info including bot name, prefix, and owner's personal information.",
     category: "Special",
@@ -23,7 +23,7 @@ module.exports = {
 
     // 🛠 Convert Google Drive view link to direct download link
     const fileId = "1QQ4rcb5mnLytHKuavPxOjx0rF-YuOTaS";
-    const directURL = `https://files.catbox.moe/vw2obw.mp4`;
+    const directURL = `https://files.catbox.moe/ymp7ob.mp4`;
 
     // ⏬ Download the file temporarily
     const filePath = path.join(__dirname, "owner-video.mp4");
@@ -43,19 +43,21 @@ module.exports = {
 
     const info = 
 `━━━━━━━━━━━━━━━━
-👋 𝗛𝗲𝗹𝗹𝗼, ${name}
+👋𝓗𝓮𝓵𝓵𝓸 𝓑𝓪𝓫𝔂𝓼, ${name}
 
-📌 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢
-• 𝗡𝗮𝗺𝗲➝ ◦•●🦊FOXY-BBE🦊●•◦
-• 𝗣𝗿𝗲𝗳𝗶𝘅 ➝/
-
-👤 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢
-• 𝗡𝗮𝗺𝗲 ➝ 💥 𝗦𝗢𝗝𝗜𝗕 💥
-• 𝗚𝗲𝗻𝗱𝗲𝗿 ➝ 𝗠𝗮𝗹𝗲
-• 𝗔𝗴𝗲 ➝ 17
-• 𝗦𝘁𝗮𝘁𝘂𝘀 ➝ SINGEL✨
-• 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 ➝ 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-• 𝗟𝗼𝗰𝗮𝘁𝗶𝗼𝗻 ➝ 𝗥𝗮𝗻𝗴𝗽𝘂𝗿⚡
+📌 🌸🌺 𝓑𝓞𝓣 𝓑𝓐𝓑𝓨 𝓘𝓝𝓕𝓞 🌺🌸
+✭ 𝓝𝓪𝓶𝓮 ➳ ◦•●😇𝑾𝒂𝒈𝒖𝒓𝒊 𝑪𝒉𝒂𝒏😉●•◦
+✭ 𝓟𝓻𝓮𝓯𝓲𝔁 ➳ +
+૮₍꜆꜄ ˃ ³ ˂ ₎a:. ヽ (* ´з ｀ *) ﾉ +. ღ
+👤 🥀🌸 𝓞𝓦𝓝𝓔𝓡 𝓘𝓝𝓕𝓞 🌸🥀
+✭ 𝓝𝓪𝓶𝓮 ➳ 😪 𝑺𝑨𝑱𝑰𝑩 😪
+✭ 𝓖𝓮𝓷𝓭𝓮𝓻 ➳ 𝑴𝒂𝒍𝒆 😷
+✭ 𝓐𝓰𝓮 ➳ 18+
+✭ 𝓢𝓽𝓪𝓽𝓾𝓼 ➳ 𝑴𝒊𝒏𝒈𝒂𝒍𝒆 😋✨
+✭ 𝓐𝓭𝓾𝓬𝓪𝓽𝓲𝓲𝓷 ➳ 𝑺𝑻𝑼𝑫𝑬𝑵𝑻 😕
+✭ 𝓛𝓸𝓬𝓪𝓽𝓲𝓸𝓷 ➳ 𝑱𝑬𝑺𝑺𝑶𝑹𝑬 𝑩𝑬𝑵𝑨𝑷𝑶𝑳𝑬⚡
+✭ 𝓕𝓑 𝓛𝓲𝓷𝓴 ➳ https://www.facebook.com/share/16WZtvPKJY/
+✭ 𝓘𝓷𝓼𝓽𝓪 𝓛𝓲𝓷𝓴 ➳https://www.instagram.com/itzsajib78?igsh=MTd6Zm1qc3BvdGM4dQ==
 ━━━━━━━━━━━━━━━━━`;
 
     message.reply({
