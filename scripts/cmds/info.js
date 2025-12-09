@@ -32,11 +32,11 @@
 ‎  },
 ‎
 ‎  sendInfo: async function (message) {
-‎    const botName = "◦•●🦊𝗙𝗢𝗫𝗬-𝗕𝗕𝗘🦊●•◦";
-‎    const authorName = "[SOJIB]💋🥵";
-‎    const authorFB = "https://www.facebook.com/profile.php?id=61579795833614";
-‎    const authorInsta = "wahat_12am";
-‎    const status = "𝗦𝗶𝗻𝗴𝗹𝗲";
+‎    const botName = "🌸🌺 𝑾𝒂𝒈𝒖𝒓𝒊 𝑪𝒉𝒂𝒏 🌺🌸";
+‎    const authorName = "[𝑺𝑨𝑱𝑰𝑩]";
+‎    const authorFB = "https://www.facebook.com/share/16WZtvPKJY/";
+‎    const authorInsta = "https://github.com/sasukexit09-cloud/BABY-BOT.git";
+‎    const status = "𝓜𝓲𝓷𝓰𝓪𝓵𝓮";
 ‎
 ‎    const now = moment().tz('Asia/Dhaka');
 ‎    const time = now.format('h:mm:ss A');
